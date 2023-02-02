@@ -1,0 +1,48 @@
+{
+  "tag": "2022-02-20_181254",
+  "event": {
+    "event_type": "touch",
+    "x": null,
+    "y": null,
+    "view": {
+      "checkable": false,
+      "selected": false,
+      "scrollable": false,
+      "long_clickable": false,
+      "resource_id": "android:id/text1",
+      "visible": true,
+      "enabled": true,
+      "clickable": true,
+      "checked": false,
+      "is_password": false,
+      "content_description": null,
+      "focused": false,
+      "class": "android.widget.TextView",
+      "children": [],
+      "child_count": 0,
+      "package": "a2dp.Vol",
+      "text": "Clear App Selection",
+      "bounds": [
+        [
+          69,
+          1113
+        ],
+        [
+          1011,
+          1239
+        ]
+      ],
+      "editable": false,
+      "focusable": false,
+      "parent": 8,
+      "temp_id": 12,
+      "size": "942*126",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/text1[text]Clear App Selection[enabled,,]",
+      "view_str": "1091a5a0b007364b7c7d4723c373fa6f",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/text1"
+    }
+  },
+  "start_state": "7e801f1d0f95642bf0647fc05152178c",
+  "stop_state": "f891144a402a2a17e6c075630ebe30af",
+  "event_str": "TouchEvent(state=7e801f1d0f95642bf0647fc05152178c, view=1091a5a0b007364b7c7d4723c373fa6f)"
+}

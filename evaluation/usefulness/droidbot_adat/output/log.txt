@@ -1,0 +1,655 @@
+  <<< apk_path: a2dp.Vol_169.apk
+  <<< count: 1000
+  <<< cv_mode: False
+  <<< debug_mode: False
+  <<< device_serial: emulator-5556
+  <<< distributed: None
+  <<< enable_accessibility_hard: False
+  <<< grant_perm: False
+  <<< humanoid: None
+  <<< ignore_ad: False
+  <<< init_model: droidbot/model/checkpoint/pytorch_model.bin.3
+  <<< input_policy: dfs_greedy
+  <<< interval: 1
+  <<< is_binary_classifer: False
+  <<< is_emulator: False
+  <<< keep_app: False
+  <<< keep_env: False
+  <<< master: None
+  <<< max_model_tries: 4
+  <<< model_name: resnet18
+  <<< output_dir: output
+  <<< profiling_method: None
+  <<< qemu_hda: None
+  <<< qemu_no_graphic: False
+  <<< random_input: False
+  <<< replay_output: None
+  <<< script_path: None
+  <<< timeout: 240
+[CONNECTION] ADB is enabled and connected.
+[CONNECTION] TelnetConsole is not enabled.
+[CONNECTION] DroidBotAppConn is enabled and connected.
+[CONNECTION] Minicap is enabled and connected.
+[CONNECTION] Logcat is enabled and connected.
+[CONNECTION] UserInputMonitor is enabled and connected.
+[CONNECTION] ProcessMonitor is enabled and connected.
+[CONNECTION] DroidBotIme is enabled and connected.
+Please wait while installing the app...
+ <<< Step 0
+Input: KeyEvent(state=f89b5946c714df5e666ea1a6c3edc9da, name=HOME)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11763763427734375
+ >>> Write screenshots to output/temp/screen_2022-02-20_180917.jpg
+ <<< Step 1
+Input: IntentEvent(intent='am start a2dp.Vol/a2dp.Vol.main')
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11891508102416992
+ >>> Write screenshots to output/temp/screen_2022-02-20_180919.jpg
+ <<< Step 2
+Input: TouchEvent(state=dbdbd53eb8e4c362a25d08841f6c8777, view=b73d27c031c129db0d668de3e31dbe28)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11847615242004395
+ >>> Write screenshots to output/temp/screen_2022-02-20_180921.jpg
+ <<< Step 3
+Input: TouchEvent(state=f60a1f503ae5001b1275d47bc3fea541, view=b73d27c031c129db0d668de3e31dbe28)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11542725563049316
+ >>> Write screenshots to output/temp/screen_2022-02-20_180922.jpg
+ <<< Step 4
+Input: TouchEvent(state=dbdbd53eb8e4c362a25d08841f6c8777, view=ff204cc157f992c624ed3996efb76d18)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11337685585021973
+ >>> Write screenshots to output/temp/screen_2022-02-20_180924.jpg
+ <<< Step 5
+Input: TouchEvent(state=7d60fc8797c4d4f0dff95924df715a86, view=bb79a4092cfb4a3dbbb6bdcdfa98f84c)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11432790756225586
+ >>> Write screenshots to output/temp/screen_2022-02-20_180926.jpg
+ <<< Step 6
+Input: TouchEvent(state=4549a3c33ef06252fc395198f0cae800, view=7f4221b89ee206622f8674bca534a799)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.1132655143737793
+ >>> Write screenshots to output/temp/screen_2022-02-20_180928.jpg
+ <<< Step 7
+Input: TouchEvent(state=7d60fc8797c4d4f0dff95924df715a86, view=ee587cf110e6d26b759ff2abf6e59bd8)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.10711669921875
+ >>> Write screenshots to output/temp/screen_2022-02-20_180930.jpg
+ <<< Step 8
+Input: TouchEvent(state=4549a3c33ef06252fc395198f0cae800, view=9aa2152b953419196758429c58601495)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11319851875305176
+ >>> Write screenshots to output/temp/screen_2022-02-20_180932.jpg
+ <<< Step 9
+Input: TouchEvent(state=c7fa04d4beb509f9da8b3fbb58116882, view=92b2d42c7967bf4fa3cd8047187731c5)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11166644096374512
+ >>> Write screenshots to output/temp/screen_2022-02-20_180934.jpg
+ <<< Step 10
+Input: TouchEvent(state=c7fa04d4beb509f9da8b3fbb58116882, view=b09a3e6e24931de73b20f206fcc1815e)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11193156242370605
+ >>> Write screenshots to output/temp/screen_2022-02-20_180936.jpg
+ <<< Step 11
+Input: TouchEvent(state=c7fa04d4beb509f9da8b3fbb58116882, view=a84075a0f67761a398278e2b5b119959)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.10972118377685547
+ >>> Write screenshots to output/temp/screen_2022-02-20_180938.jpg
+ <<< Step 12
+Input: TouchEvent(state=a04b4cc4a3c3facdcd83810b6f34b64e, view=92b2d42c7967bf4fa3cd8047187731c5)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11255383491516113
+ >>> Write screenshots to output/temp/screen_2022-02-20_180940.jpg
+ <<< Step 13
+Input: TouchEvent(state=a04b4cc4a3c3facdcd83810b6f34b64e, view=b09a3e6e24931de73b20f206fcc1815e)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11113190650939941
+ >>> Write screenshots to output/temp/screen_2022-02-20_180942.jpg
+ <<< Step 14
+Input: TouchEvent(state=a04b4cc4a3c3facdcd83810b6f34b64e, view=e2e1d0eb8796c5668ea32414f4f479fb)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.10817718505859375
+ >>> Write screenshots to output/temp/screen_2022-02-20_180944.jpg
+ <<< Step 15
+Input: TouchEvent(state=c7fa04d4beb509f9da8b3fbb58116882, view=6fbe1a77653a71a3d67d665e701c5d40)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.12640833854675293
+ >>> Write screenshots to output/temp/screen_2022-02-20_180946.jpg
+ <<< Step 16
+Input: TouchEvent(state=7d60fc8797c4d4f0dff95924df715a86, view=a84075a0f67761a398278e2b5b119959)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11667203903198242
+ >>> Write screenshots to output/temp/screen_2022-02-20_180948.jpg
+ <<< Step 17
+Input: TouchEvent(state=fcfb87d4e5406410516979939873ce34, view=bb79a4092cfb4a3dbbb6bdcdfa98f84c)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.12647604942321777
+ >>> Write screenshots to output/temp/screen_2022-02-20_180950.jpg
+ <<< Step 18
+Input: TouchEvent(state=4549a3c33ef06252fc395198f0cae800, view=bec108f7d0c516dba25b6e6aed29648a)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11390805244445801
+ >>> Write screenshots to output/temp/screen_2022-02-20_180952.jpg
+ <<< Step 19
+Input: TouchEvent(state=9b41ab8f0406eb964f1185dcbca4d0ab, view=123abd840ec2f948b14659141950810b)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.1159505844116211
+ >>> Write screenshots to output/temp/screen_2022-02-20_180954.jpg
+ <<< Step 20
+Input: TouchEvent(state=9b41ab8f0406eb964f1185dcbca4d0ab, view=c56e2a0bee4d07760d733640189fde68)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11199283599853516
+ >>> Write screenshots to output/temp/screen_2022-02-20_180955.jpg
+ <<< Step 21
+Input: TouchEvent(state=9b41ab8f0406eb964f1185dcbca4d0ab, view=05a3cc9e9f3982e7bc77f2098ea37bb9)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.10985136032104492
+ >>> Write screenshots to output/temp/screen_2022-02-20_180957.jpg
+ <<< Step 22
+Input: TouchEvent(state=9b41ab8f0406eb964f1185dcbca4d0ab, view=08e94072c8b43405ad57668259d7ed21)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11336398124694824
+ >>> Write screenshots to output/temp/screen_2022-02-20_180959.jpg
+ <<< Step 23
+Input: TouchEvent(state=9b41ab8f0406eb964f1185dcbca4d0ab, view=4fa6e8a2549e95c95efae4c30e871d58)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11020541191101074
+ >>> Write screenshots to output/temp/screen_2022-02-20_181001.jpg
+ <<< Step 24
+Input: TouchEvent(state=9b41ab8f0406eb964f1185dcbca4d0ab, view=bcda3baaae3539326e0fb16bdee69b67)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11462807655334473
+ >>> Write screenshots to output/temp/screen_2022-02-20_181003.jpg
+ <<< Step 25
+Input: TouchEvent(state=9b41ab8f0406eb964f1185dcbca4d0ab, view=5d769f44d1f5df855ccc1d070ac3fd2a)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.1141660213470459
+ >>> Write screenshots to output/temp/screen_2022-02-20_181005.jpg
+ <<< Step 26
+Input: TouchEvent(state=9b41ab8f0406eb964f1185dcbca4d0ab, view=f86fae7d991b243580c615cac5c0086b)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11244511604309082
+ >>> Write screenshots to output/temp/screen_2022-02-20_181007.jpg
+ <<< Step 27
+Input: TouchEvent(state=9b41ab8f0406eb964f1185dcbca4d0ab, view=0e431c2ab09521d9811af9653a2b8ed3)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11425352096557617
+ >>> Write screenshots to output/temp/screen_2022-02-20_181009.jpg
+ <<< Step 28
+Input: TouchEvent(state=9b41ab8f0406eb964f1185dcbca4d0ab, view=167925a9bf3929431787ec89f4ad30d3)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11600685119628906
+ >>> Write screenshots to output/temp/screen_2022-02-20_181011.jpg
+ <<< Step 29
+Input: TouchEvent(state=9b41ab8f0406eb964f1185dcbca4d0ab, view=5db80982e92f182a3601cdaaddca4420)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11158967018127441
+ >>> Write screenshots to output/temp/screen_2022-02-20_181013.jpg
+ <<< Step 30
+Input: IntentEvent(intent='am start a2dp.Vol/a2dp.Vol.main')
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.1128535270690918
+ >>> Write screenshots to output/temp/screen_2022-02-20_181014.jpg
+ <<< Step 31
+Input: TouchEvent(state=9b41ab8f0406eb964f1185dcbca4d0ab, view=270638ebf6fad1871c4c941e4d53c7cf)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.19066977500915527
+ >>> Write screenshots to output/temp/screen_2022-02-20_181016.jpg
+ <<< Step 32
+Input: TouchEvent(state=9b41ab8f0406eb964f1185dcbca4d0ab, view=7c748fc250499df62dcf8ce997e535f8)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11102700233459473
+ >>> Write screenshots to output/temp/screen_2022-02-20_181018.jpg
+ <<< Step 33
+Input: TouchEvent(state=02c1348374388865644001a55cd48a49, view=123abd840ec2f948b14659141950810b)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.1156606674194336
+ >>> Write screenshots to output/temp/screen_2022-02-20_181020.jpg
+ <<< Step 34
+Input: TouchEvent(state=02c1348374388865644001a55cd48a49, view=c56e2a0bee4d07760d733640189fde68)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.10896539688110352
+ >>> Write screenshots to output/temp/screen_2022-02-20_181022.jpg
+ <<< Step 35
+Input: TouchEvent(state=02c1348374388865644001a55cd48a49, view=05a3cc9e9f3982e7bc77f2098ea37bb9)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.10528922080993652
+ >>> Write screenshots to output/temp/screen_2022-02-20_181024.jpg
+ <<< Step 36
+Input: TouchEvent(state=02c1348374388865644001a55cd48a49, view=08e94072c8b43405ad57668259d7ed21)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11466860771179199
+ >>> Write screenshots to output/temp/screen_2022-02-20_181026.jpg
+ <<< Step 37
+Input: TouchEvent(state=02c1348374388865644001a55cd48a49, view=4fa6e8a2549e95c95efae4c30e871d58)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11103010177612305
+ >>> Write screenshots to output/temp/screen_2022-02-20_181028.jpg
+ <<< Step 38
+Input: TouchEvent(state=02c1348374388865644001a55cd48a49, view=bcda3baaae3539326e0fb16bdee69b67)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11043834686279297
+ >>> Write screenshots to output/temp/screen_2022-02-20_181030.jpg
+ <<< Step 39
+Input: TouchEvent(state=02c1348374388865644001a55cd48a49, view=5d769f44d1f5df855ccc1d070ac3fd2a)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11264681816101074
+ >>> Write screenshots to output/temp/screen_2022-02-20_181032.jpg
+ <<< Step 40
+Input: TouchEvent(state=02c1348374388865644001a55cd48a49, view=f86fae7d991b243580c615cac5c0086b)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.1104421615600586
+ >>> Write screenshots to output/temp/screen_2022-02-20_181034.jpg
+ <<< Step 41
+Input: TouchEvent(state=02c1348374388865644001a55cd48a49, view=0e431c2ab09521d9811af9653a2b8ed3)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.1123659610748291
+ >>> Write screenshots to output/temp/screen_2022-02-20_181035.jpg
+ <<< Step 42
+Input: TouchEvent(state=02c1348374388865644001a55cd48a49, view=167925a9bf3929431787ec89f4ad30d3)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11072397232055664
+ >>> Write screenshots to output/temp/screen_2022-02-20_181037.jpg
+ <<< Step 43
+Input: TouchEvent(state=02c1348374388865644001a55cd48a49, view=5db80982e92f182a3601cdaaddca4420)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11610651016235352
+ >>> Write screenshots to output/temp/screen_2022-02-20_181039.jpg
+ <<< Step 44
+Input: IntentEvent(intent='am start a2dp.Vol/a2dp.Vol.main')
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11313676834106445
+ >>> Write screenshots to output/temp/screen_2022-02-20_181041.jpg
+ <<< Step 45
+Input: TouchEvent(state=02c1348374388865644001a55cd48a49, view=270638ebf6fad1871c4c941e4d53c7cf)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11193370819091797
+ >>> Write screenshots to output/temp/screen_2022-02-20_181043.jpg
+ <<< Step 46
+Input: TouchEvent(state=02c1348374388865644001a55cd48a49, view=d6d296274be5ee0a478e9df7a1ee614a)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.10988116264343262
+ >>> Write screenshots to output/temp/screen_2022-02-20_181045.jpg
+ <<< Step 47
+Input: TouchEvent(state=9b41ab8f0406eb964f1185dcbca4d0ab, view=69f2bdcad13943f179958f550bda18ae)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.10962271690368652
+ >>> Write screenshots to output/temp/screen_2022-02-20_181047.jpg
+ <<< Step 48
+Input: TouchEvent(state=465eae56b39d52059987c6ceb7d3d1ab, view=123abd840ec2f948b14659141950810b)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11912727355957031
+ >>> Write screenshots to output/temp/screen_2022-02-20_181049.jpg
+ <<< Step 49
+Input: TouchEvent(state=465eae56b39d52059987c6ceb7d3d1ab, view=c56e2a0bee4d07760d733640189fde68)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11672091484069824
+ >>> Write screenshots to output/temp/screen_2022-02-20_181051.jpg
+ <<< Step 50
+Input: TouchEvent(state=465eae56b39d52059987c6ceb7d3d1ab, view=05a3cc9e9f3982e7bc77f2098ea37bb9)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11471915245056152
+ >>> Write screenshots to output/temp/screen_2022-02-20_181052.jpg
+ <<< Step 51
+Input: TouchEvent(state=465eae56b39d52059987c6ceb7d3d1ab, view=08e94072c8b43405ad57668259d7ed21)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11357855796813965
+ >>> Write screenshots to output/temp/screen_2022-02-20_181054.jpg
+ <<< Step 52
+Input: TouchEvent(state=465eae56b39d52059987c6ceb7d3d1ab, view=4fa6e8a2549e95c95efae4c30e871d58)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.10945630073547363
+ >>> Write screenshots to output/temp/screen_2022-02-20_181056.jpg
+ <<< Step 53
+Input: TouchEvent(state=465eae56b39d52059987c6ceb7d3d1ab, view=bcda3baaae3539326e0fb16bdee69b67)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11100983619689941
+ >>> Write screenshots to output/temp/screen_2022-02-20_181058.jpg
+ <<< Step 54
+Input: TouchEvent(state=465eae56b39d52059987c6ceb7d3d1ab, view=5d769f44d1f5df855ccc1d070ac3fd2a)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.20978283882141113
+ >>> Write screenshots to output/temp/screen_2022-02-20_181100.jpg
+ <<< Step 55
+Input: TouchEvent(state=465eae56b39d52059987c6ceb7d3d1ab, view=f86fae7d991b243580c615cac5c0086b)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11127924919128418
+ >>> Write screenshots to output/temp/screen_2022-02-20_181102.jpg
+ <<< Step 56
+Input: TouchEvent(state=465eae56b39d52059987c6ceb7d3d1ab, view=f44f5eef96ecb12412e398bb2b8d3c3b)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11301255226135254
+ >>> Write screenshots to output/temp/screen_2022-02-20_181104.jpg
+ <<< Step 57
+Input: TouchEvent(state=465eae56b39d52059987c6ceb7d3d1ab, view=5abd1eaa92f06730d16f198c2a5f10c5)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11231517791748047
+ >>> Write screenshots to output/temp/screen_2022-02-20_181106.jpg
+ <<< Step 58
+Input: TouchEvent(state=465eae56b39d52059987c6ceb7d3d1ab, view=2ea3edf598a0be6432b3067f476956a2)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11429381370544434
+ >>> Write screenshots to output/temp/screen_2022-02-20_181108.jpg
+ <<< Step 59
+Input: TouchEvent(state=465eae56b39d52059987c6ceb7d3d1ab, view=ef7d5a94d1dbbc9cff3da9379666c8b1)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.1124119758605957
+ >>> Write screenshots to output/temp/screen_2022-02-20_181110.jpg
+ <<< Step 60
+Input: TouchEvent(state=465eae56b39d52059987c6ceb7d3d1ab, view=a6723230e1ca0f5d8ca106c201689bb9)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11313724517822266
+ >>> Write screenshots to output/temp/screen_2022-02-20_181112.jpg
+ <<< Step 61
+Input: TouchEvent(state=465eae56b39d52059987c6ceb7d3d1ab, view=7b48b86a3be00554331d45c281a822b6)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11268401145935059
+ >>> Write screenshots to output/temp/screen_2022-02-20_181114.jpg
+ <<< Step 62
+Input: TouchEvent(state=465eae56b39d52059987c6ceb7d3d1ab, view=5085c81a3ae02def38e737ac51a1c120)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.10917067527770996
+ >>> Write screenshots to output/temp/screen_2022-02-20_181116.jpg
+ <<< Step 63
+Input: TouchEvent(state=465eae56b39d52059987c6ceb7d3d1ab, view=65357ed037b16ff457f4bd18d69d1807)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11558914184570312
+ >>> Write screenshots to output/temp/screen_2022-02-20_181118.jpg
+ <<< Step 64
+Input: TouchEvent(state=465eae56b39d52059987c6ceb7d3d1ab, view=227dea9cef47fcf4468578daa479a6f8)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.1218407154083252
+ >>> Write screenshots to output/temp/screen_2022-02-20_181119.jpg
+ <<< Step 65
+Input: TouchEvent(state=465eae56b39d52059987c6ceb7d3d1ab, view=19dc602b20d244f85a519fc230d0c383)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11438441276550293
+ >>> Write screenshots to output/temp/screen_2022-02-20_181121.jpg
+ <<< Step 66
+Input: TouchEvent(state=465eae56b39d52059987c6ceb7d3d1ab, view=59e9c5375fbb4190efa52d75684dbe4b)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11512875556945801
+ >>> Write screenshots to output/temp/screen_2022-02-20_181123.jpg
+ <<< Step 67
+Input: IntentEvent(intent='am start a2dp.Vol/a2dp.Vol.main')
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.1157681941986084
+ >>> Write screenshots to output/temp/screen_2022-02-20_181125.jpg
+ <<< Step 68
+Input: TouchEvent(state=465eae56b39d52059987c6ceb7d3d1ab, view=0e431c2ab09521d9811af9653a2b8ed3)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11439633369445801
+ >>> Write screenshots to output/temp/screen_2022-02-20_181127.jpg
+ <<< Step 69
+Input: TouchEvent(state=465eae56b39d52059987c6ceb7d3d1ab, view=167925a9bf3929431787ec89f4ad30d3)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11268258094787598
+ >>> Write screenshots to output/temp/screen_2022-02-20_181129.jpg
+ <<< Step 70
+Input: TouchEvent(state=465eae56b39d52059987c6ceb7d3d1ab, view=5db80982e92f182a3601cdaaddca4420)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11512875556945801
+ >>> Write screenshots to output/temp/screen_2022-02-20_181131.jpg
+ <<< Step 71
+Input: IntentEvent(intent='am start a2dp.Vol/a2dp.Vol.main')
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11074090003967285
+ >>> Write screenshots to output/temp/screen_2022-02-20_181132.jpg
+ <<< Step 72
+Input: TouchEvent(state=465eae56b39d52059987c6ceb7d3d1ab, view=270638ebf6fad1871c4c941e4d53c7cf)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11440777778625488
+ >>> Write screenshots to output/temp/screen_2022-02-20_181134.jpg
+ <<< Step 73
+Input: TouchEvent(state=465eae56b39d52059987c6ceb7d3d1ab, view=7c748fc250499df62dcf8ce997e535f8)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11596274375915527
+ >>> Write screenshots to output/temp/screen_2022-02-20_181136.jpg
+ <<< Step 74
+Input: TouchEvent(state=f0b1d3798e036f38a823350022502136, view=123abd840ec2f948b14659141950810b)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.1138603687286377
+ >>> Write screenshots to output/temp/screen_2022-02-20_181138.jpg
+ <<< Step 75
+Input: TouchEvent(state=f0b1d3798e036f38a823350022502136, view=c56e2a0bee4d07760d733640189fde68)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11259746551513672
+ >>> Write screenshots to output/temp/screen_2022-02-20_181140.jpg
+ <<< Step 76
+Input: TouchEvent(state=f0b1d3798e036f38a823350022502136, view=05a3cc9e9f3982e7bc77f2098ea37bb9)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11119365692138672
+ >>> Write screenshots to output/temp/screen_2022-02-20_181142.jpg
+ <<< Step 77
+Input: TouchEvent(state=f0b1d3798e036f38a823350022502136, view=08e94072c8b43405ad57668259d7ed21)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11197662353515625
+ >>> Write screenshots to output/temp/screen_2022-02-20_181144.jpg
+ <<< Step 78
+Input: TouchEvent(state=f0b1d3798e036f38a823350022502136, view=4fa6e8a2549e95c95efae4c30e871d58)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.111572265625
+ >>> Write screenshots to output/temp/screen_2022-02-20_181146.jpg
+ <<< Step 79
+Input: TouchEvent(state=f0b1d3798e036f38a823350022502136, view=bcda3baaae3539326e0fb16bdee69b67)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11308407783508301
+ >>> Write screenshots to output/temp/screen_2022-02-20_181148.jpg
+ <<< Step 80
+Input: TouchEvent(state=f0b1d3798e036f38a823350022502136, view=5d769f44d1f5df855ccc1d070ac3fd2a)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.14054584503173828
+ >>> Write screenshots to output/temp/screen_2022-02-20_181150.jpg
+ <<< Step 81
+Input: TouchEvent(state=f0b1d3798e036f38a823350022502136, view=f86fae7d991b243580c615cac5c0086b)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11590766906738281
+ >>> Write screenshots to output/temp/screen_2022-02-20_181151.jpg
+ <<< Step 82
+Input: TouchEvent(state=f0b1d3798e036f38a823350022502136, view=0e431c2ab09521d9811af9653a2b8ed3)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11299967765808105
+ >>> Write screenshots to output/temp/screen_2022-02-20_181153.jpg
+ <<< Step 83
+Input: TouchEvent(state=f0b1d3798e036f38a823350022502136, view=167925a9bf3929431787ec89f4ad30d3)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11108255386352539
+ >>> Write screenshots to output/temp/screen_2022-02-20_181155.jpg
+ <<< Step 84
+Input: TouchEvent(state=f0b1d3798e036f38a823350022502136, view=5db80982e92f182a3601cdaaddca4420)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.10974621772766113
+ >>> Write screenshots to output/temp/screen_2022-02-20_181157.jpg
+ <<< Step 85
+Input: IntentEvent(intent='am start a2dp.Vol/a2dp.Vol.main')
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11292028427124023
+ >>> Write screenshots to output/temp/screen_2022-02-20_181159.jpg
+ <<< Step 86
+Input: TouchEvent(state=f0b1d3798e036f38a823350022502136, view=270638ebf6fad1871c4c941e4d53c7cf)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11594462394714355
+ >>> Write screenshots to output/temp/screen_2022-02-20_181201.jpg
+ <<< Step 87
+Input: TouchEvent(state=f0b1d3798e036f38a823350022502136, view=d6d296274be5ee0a478e9df7a1ee614a)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11231637001037598
+ >>> Write screenshots to output/temp/screen_2022-02-20_181203.jpg
+ <<< Step 88
+Input: TouchEvent(state=465eae56b39d52059987c6ceb7d3d1ab, view=97c7473b62ac7879dbcfc922e9998a4f)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11346983909606934
+ >>> Write screenshots to output/temp/screen_2022-02-20_181205.jpg
+ <<< Step 89
+Input: TouchEvent(state=9b41ab8f0406eb964f1185dcbca4d0ab, view=d24e82664f75960e0b5ebfcadfad86e7)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.1134788990020752
+ >>> Write screenshots to output/temp/screen_2022-02-20_181206.jpg
+ <<< Step 90
+Input: TouchEvent(state=bb134bb9e5f0b923fe70d7a05821bda2, view=123abd840ec2f948b14659141950810b)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.10896444320678711
+ >>> Write screenshots to output/temp/screen_2022-02-20_181208.jpg
+ <<< Step 91
+Input: TouchEvent(state=bb134bb9e5f0b923fe70d7a05821bda2, view=c56e2a0bee4d07760d733640189fde68)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11260366439819336
+ >>> Write screenshots to output/temp/screen_2022-02-20_181210.jpg
+ <<< Step 92
+Input: TouchEvent(state=bb134bb9e5f0b923fe70d7a05821bda2, view=05a3cc9e9f3982e7bc77f2098ea37bb9)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11336660385131836
+ >>> Write screenshots to output/temp/screen_2022-02-20_181212.jpg
+ <<< Step 93
+Input: TouchEvent(state=bb134bb9e5f0b923fe70d7a05821bda2, view=08e94072c8b43405ad57668259d7ed21)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11195492744445801
+ >>> Write screenshots to output/temp/screen_2022-02-20_181214.jpg
+ <<< Step 94
+Input: TouchEvent(state=bb134bb9e5f0b923fe70d7a05821bda2, view=4fa6e8a2549e95c95efae4c30e871d58)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11489415168762207
+ >>> Write screenshots to output/temp/screen_2022-02-20_181216.jpg
+ <<< Step 95
+Input: TouchEvent(state=bb134bb9e5f0b923fe70d7a05821bda2, view=bcda3baaae3539326e0fb16bdee69b67)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.10952162742614746
+ >>> Write screenshots to output/temp/screen_2022-02-20_181218.jpg
+ <<< Step 96
+Input: IntentEvent(intent='am start a2dp.Vol/a2dp.Vol.main')
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11154413223266602
+ >>> Write screenshots to output/temp/screen_2022-02-20_181219.jpg
+ <<< Step 97
+Input: TouchEvent(state=bb134bb9e5f0b923fe70d7a05821bda2, view=5d769f44d1f5df855ccc1d070ac3fd2a)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.12293362617492676
+ >>> Write screenshots to output/temp/screen_2022-02-20_181221.jpg
+ <<< Step 98
+Input: TouchEvent(state=bb134bb9e5f0b923fe70d7a05821bda2, view=f86fae7d991b243580c615cac5c0086b)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.1132972240447998
+ >>> Write screenshots to output/temp/screen_2022-02-20_181223.jpg
+ <<< Step 99
+Input: TouchEvent(state=bb134bb9e5f0b923fe70d7a05821bda2, view=0e431c2ab09521d9811af9653a2b8ed3)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11940360069274902
+ >>> Write screenshots to output/temp/screen_2022-02-20_181225.jpg
+ <<< Step 100
+Input: TouchEvent(state=65f7228b123b8bb6151ccb526c8974b7, view=c6505eab150dbedf1ef4ea348e18773a)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11035513877868652
+ >>> Write screenshots to output/temp/screen_2022-02-20_181227.jpg
+ <<< Step 101
+Input: TouchEvent(state=bb134bb9e5f0b923fe70d7a05821bda2, view=167925a9bf3929431787ec89f4ad30d3)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11551547050476074
+ >>> Write screenshots to output/temp/screen_2022-02-20_181229.jpg
+ <<< Step 102
+Input: TouchEvent(state=b21a70807d57d44ebebe2e406899a1c5, view=123abd840ec2f948b14659141950810b)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11699843406677246
+ >>> Write screenshots to output/temp/screen_2022-02-20_181231.jpg
+ <<< Step 103
+Input: TouchEvent(state=b21a70807d57d44ebebe2e406899a1c5, view=c56e2a0bee4d07760d733640189fde68)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.111419677734375
+ >>> Write screenshots to output/temp/screen_2022-02-20_181233.jpg
+ <<< Step 104
+Input: TouchEvent(state=b21a70807d57d44ebebe2e406899a1c5, view=05a3cc9e9f3982e7bc77f2098ea37bb9)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.10854792594909668
+ >>> Write screenshots to output/temp/screen_2022-02-20_181235.jpg
+ <<< Step 105
+Input: TouchEvent(state=b21a70807d57d44ebebe2e406899a1c5, view=08e94072c8b43405ad57668259d7ed21)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11395096778869629
+ >>> Write screenshots to output/temp/screen_2022-02-20_181237.jpg
+ <<< Step 106
+Input: TouchEvent(state=b21a70807d57d44ebebe2e406899a1c5, view=4fa6e8a2549e95c95efae4c30e871d58)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11011266708374023
+ >>> Write screenshots to output/temp/screen_2022-02-20_181239.jpg
+ <<< Step 107
+Input: TouchEvent(state=b21a70807d57d44ebebe2e406899a1c5, view=bcda3baaae3539326e0fb16bdee69b67)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.1164085865020752
+ >>> Write screenshots to output/temp/screen_2022-02-20_181241.jpg
+ <<< Step 108
+Input: IntentEvent(intent='am start a2dp.Vol/a2dp.Vol.main')
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11046195030212402
+ >>> Write screenshots to output/temp/screen_2022-02-20_181242.jpg
+ <<< Step 109
+Input: TouchEvent(state=b21a70807d57d44ebebe2e406899a1c5, view=5d769f44d1f5df855ccc1d070ac3fd2a)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11174416542053223
+ >>> Write screenshots to output/temp/screen_2022-02-20_181244.jpg
+ <<< Step 110
+Input: TouchEvent(state=b21a70807d57d44ebebe2e406899a1c5, view=f86fae7d991b243580c615cac5c0086b)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11071443557739258
+ >>> Write screenshots to output/temp/screen_2022-02-20_181246.jpg
+ <<< Step 111
+Input: TouchEvent(state=b21a70807d57d44ebebe2e406899a1c5, view=0e431c2ab09521d9811af9653a2b8ed3)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11554789543151855
+ >>> Write screenshots to output/temp/screen_2022-02-20_181248.jpg
+ <<< Step 112
+Input: TouchEvent(state=65f7228b123b8bb6151ccb526c8974b7, view=ea381e51dbbc9f742500cd901c5f633f)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11155128479003906
+ >>> Write screenshots to output/temp/screen_2022-02-20_181250.jpg
+ <<< Step 113
+Input: TouchEvent(state=b21a70807d57d44ebebe2e406899a1c5, view=e0969d496ec71489ea4410f11adc5e7a)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.12508821487426758
+ >>> Write screenshots to output/temp/screen_2022-02-20_181252.jpg
+ <<< Step 114
+Input: TouchEvent(state=bb134bb9e5f0b923fe70d7a05821bda2, view=5db80982e92f182a3601cdaaddca4420)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11631917953491211
+ >>> Write screenshots to output/temp/screen_2022-02-20_181254.jpg
+ <<< Step 115
+Input: TouchEvent(state=7e801f1d0f95642bf0647fc05152178c, view=1091a5a0b007364b7c7d4723c373fa6f)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11054611206054688
+ >>> Write screenshots to output/temp/screen_2022-02-20_181256.jpg
+ <<< Step 116
+Input: TouchEvent(state=bb134bb9e5f0b923fe70d7a05821bda2, view=270638ebf6fad1871c4c941e4d53c7cf)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11353921890258789
+ >>> Write screenshots to output/temp/screen_2022-02-20_181258.jpg
+ <<< Step 117
+Input: TouchEvent(state=6fc3e95fdde849c3fdd16c59a394a9e4, view=123abd840ec2f948b14659141950810b)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11655068397521973
+ >>> Write screenshots to output/temp/screen_2022-02-20_181300.jpg
+ <<< Step 118
+Input: TouchEvent(state=6fc3e95fdde849c3fdd16c59a394a9e4, view=c56e2a0bee4d07760d733640189fde68)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.1145329475402832
+ >>> Write screenshots to output/temp/screen_2022-02-20_181302.jpg
+ <<< Step 119
+Input: TouchEvent(state=6fc3e95fdde849c3fdd16c59a394a9e4, view=05a3cc9e9f3982e7bc77f2098ea37bb9)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.1145334243774414
+ >>> Write screenshots to output/temp/screen_2022-02-20_181304.jpg
+ <<< Step 120
+Input: TouchEvent(state=6fc3e95fdde849c3fdd16c59a394a9e4, view=08e94072c8b43405ad57668259d7ed21)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11032629013061523
+ >>> Write screenshots to output/temp/screen_2022-02-20_181306.jpg
+ <<< Step 121
+Input: TouchEvent(state=6fc3e95fdde849c3fdd16c59a394a9e4, view=4fa6e8a2549e95c95efae4c30e871d58)
+******************** sleep 1 ********************
+[CONNECTION] ADB is disconnected
+[CONNECTION] Minicap is disconnected
+[CONNECTION] Logcat is disconnected
+[CONNECTION] UserInputMonitor is disconnected
+[CONNECTION] ProcessMonitor is disconnected
+[CONNECTION] DroidBotIme is disconnected
+Please wait while uninstalling the app...
+ >>> Time processing to take screenshots 0.1123955249786377
+ >>> Write screenshots to output/temp/screen_2022-02-20_181308.jpg
+[CONNECTION] ADB is disconnected

@@ -1,0 +1,50 @@
+{
+  "tag": "2022-02-20_181248",
+  "event": {
+    "event_type": "touch",
+    "x": null,
+    "y": null,
+    "view": {
+      "checkable": false,
+      "selected": false,
+      "scrollable": false,
+      "long_clickable": false,
+      "resource_id": "android:id/select_dialog_listview",
+      "visible": true,
+      "enabled": true,
+      "clickable": true,
+      "checked": false,
+      "is_password": false,
+      "content_description": null,
+      "focused": true,
+      "class": "android.widget.ListView",
+      "children": [
+        9
+      ],
+      "child_count": 1,
+      "package": "a2dp.Vol",
+      "text": null,
+      "bounds": [
+        [
+          69,
+          903
+        ],
+        [
+          1011,
+          1071
+        ]
+      ],
+      "editable": false,
+      "focusable": true,
+      "parent": 7,
+      "temp_id": 8,
+      "size": "942*168",
+      "signature": "[class]android.widget.ListView[resource_id]android:id/select_dialog_listview[text]None[enabled,,]",
+      "view_str": "ea381e51dbbc9f742500cd901c5f633f",
+      "content_free_signature": "[class]android.widget.ListView[resource_id]android:id/select_dialog_listview"
+    }
+  },
+  "start_state": "65f7228b123b8bb6151ccb526c8974b7",
+  "stop_state": "d3afd41f8111ddb87c422a84b6bbe9b3",
+  "event_str": "TouchEvent(state=65f7228b123b8bb6151ccb526c8974b7, view=ea381e51dbbc9f742500cd901c5f633f)"
+}

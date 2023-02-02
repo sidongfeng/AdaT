@@ -1,0 +1,48 @@
+{
+  "tag": "2022-02-20_181252",
+  "event": {
+    "event_type": "touch",
+    "x": null,
+    "y": null,
+    "view": {
+      "checkable": false,
+      "selected": false,
+      "scrollable": false,
+      "long_clickable": true,
+      "resource_id": "a2dp.Vol:id/chooseAppButton",
+      "visible": true,
+      "enabled": true,
+      "clickable": true,
+      "checked": false,
+      "is_password": false,
+      "content_description": null,
+      "focused": false,
+      "class": "android.widget.Button",
+      "children": [],
+      "child_count": 0,
+      "package": "a2dp.Vol",
+      "text": "Start app on connect",
+      "bounds": [
+        [
+          0,
+          1182
+        ],
+        [
+          1080,
+          1308
+        ]
+      ],
+      "editable": false,
+      "focusable": true,
+      "parent": 9,
+      "temp_id": 18,
+      "size": "1080*126",
+      "signature": "[class]android.widget.Button[resource_id]a2dp.Vol:id/chooseAppButton[text]Start app on connect[enabled,,]",
+      "view_str": "5db80982e92f182a3601cdaaddca4420",
+      "content_free_signature": "[class]android.widget.Button[resource_id]a2dp.Vol:id/chooseAppButton"
+    }
+  },
+  "start_state": "bb134bb9e5f0b923fe70d7a05821bda2",
+  "stop_state": "ee864e9720acf1b0855e1576cd45298a",
+  "event_str": "TouchEvent(state=bb134bb9e5f0b923fe70d7a05821bda2, view=5db80982e92f182a3601cdaaddca4420)"
+}

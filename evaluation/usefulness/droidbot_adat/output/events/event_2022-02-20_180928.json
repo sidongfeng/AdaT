@@ -1,0 +1,50 @@
+{
+  "tag": "2022-02-20_180928",
+  "event": {
+    "event_type": "touch",
+    "x": null,
+    "y": null,
+    "view": {
+      "checkable": false,
+      "selected": false,
+      "scrollable": false,
+      "long_clickable": true,
+      "resource_id": "a2dp.Vol:id/ListView01",
+      "visible": true,
+      "enabled": true,
+      "clickable": true,
+      "checked": false,
+      "is_password": false,
+      "content_description": "Bluetooth Devices",
+      "focused": true,
+      "class": "android.widget.ListView",
+      "children": [
+        15
+      ],
+      "child_count": 1,
+      "package": "a2dp.Vol",
+      "text": null,
+      "bounds": [
+        [
+          0,
+          388
+        ],
+        [
+          1080,
+          514
+        ]
+      ],
+      "editable": false,
+      "focusable": true,
+      "parent": 8,
+      "temp_id": 14,
+      "size": "1080*126",
+      "signature": "[class]android.widget.ListView[resource_id]a2dp.Vol:id/ListView01[text]None[enabled,,]",
+      "view_str": "ee587cf110e6d26b759ff2abf6e59bd8",
+      "content_free_signature": "[class]android.widget.ListView[resource_id]a2dp.Vol:id/ListView01"
+    }
+  },
+  "start_state": "7d60fc8797c4d4f0dff95924df715a86",
+  "stop_state": "8ddb6ea23fdf477c5df686731c8466dd",
+  "event_str": "TouchEvent(state=7d60fc8797c4d4f0dff95924df715a86, view=ee587cf110e6d26b759ff2abf6e59bd8)"
+}

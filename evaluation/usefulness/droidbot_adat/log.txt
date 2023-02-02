@@ -1,0 +1,120 @@
+  <<< apk_path: a2dp.Vol_169.apk
+  <<< count: 1000
+  <<< cv_mode: False
+  <<< debug_mode: False
+  <<< device_serial: emulator-5556
+  <<< distributed: None
+  <<< enable_accessibility_hard: False
+  <<< grant_perm: False
+  <<< humanoid: None
+  <<< ignore_ad: False
+  <<< init_model: droidbot/model/checkpoint/pytorch_model.bin.3
+  <<< input_policy: dfs_greedy
+  <<< interval: 1
+  <<< is_binary_classifer: False
+  <<< is_emulator: False
+  <<< keep_app: False
+  <<< keep_env: False
+  <<< master: None
+  <<< max_model_tries: 4
+  <<< model_name: resnet18
+  <<< output_dir: output
+  <<< profiling_method: None
+  <<< qemu_hda: None
+  <<< qemu_no_graphic: False
+  <<< random_input: False
+  <<< replay_output: None
+  <<< script_path: None
+  <<< timeout: 240
+[CONNECTION] ADB is enabled and connected.
+[CONNECTION] TelnetConsole is not enabled.
+[CONNECTION] DroidBotAppConn is enabled and connected.
+[CONNECTION] Minicap is enabled and connected.
+[CONNECTION] Logcat is enabled and connected.
+[CONNECTION] UserInputMonitor is enabled and connected.
+[CONNECTION] ProcessMonitor is enabled and connected.
+[CONNECTION] DroidBotIme is enabled and connected.
+Please wait while installing the app...
+ <<< Step 0
+Input: KeyEvent(state=f89b5946c714df5e666ea1a6c3edc9da, name=HOME)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.1158449649810791
+ >>> Write screenshots to output/temp/screen_2022-02-20_173153.jpg
+ <<< Step 0
+Input: KeyEvent(state=f89b5946c714df5e666ea1a6c3edc9da, name=HOME)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11618447303771973
+ >>> Write screenshots to output/temp/screen_2022-02-20_173155.jpg
+ <<< Step 0
+Input: KeyEvent(state=f89b5946c714df5e666ea1a6c3edc9da, name=HOME)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11362075805664062
+ >>> Write screenshots to output/temp/screen_2022-02-20_173156.jpg
+ <<< Step 0
+Input: KeyEvent(state=f89b5946c714df5e666ea1a6c3edc9da, name=HOME)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11461067199707031
+ >>> Write screenshots to output/temp/screen_2022-02-20_173158.jpg
+ <<< Step 0
+Input: KeyEvent(state=f89b5946c714df5e666ea1a6c3edc9da, name=HOME)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11119389533996582
+ >>> Write screenshots to output/temp/screen_2022-02-20_173159.jpg
+ <<< Step 0
+Input: KeyEvent(state=f89b5946c714df5e666ea1a6c3edc9da, name=HOME)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11094450950622559
+ >>> Write screenshots to output/temp/screen_2022-02-20_173201.jpg
+ <<< Step 0
+Input: KeyEvent(state=f89b5946c714df5e666ea1a6c3edc9da, name=HOME)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.10788106918334961
+ >>> Write screenshots to output/temp/screen_2022-02-20_173202.jpg
+ <<< Step 0
+Input: KeyEvent(state=f89b5946c714df5e666ea1a6c3edc9da, name=HOME)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11100578308105469
+ >>> Write screenshots to output/temp/screen_2022-02-20_173204.jpg
+ <<< Step 0
+Input: KeyEvent(state=f89b5946c714df5e666ea1a6c3edc9da, name=HOME)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.10730743408203125
+ >>> Write screenshots to output/temp/screen_2022-02-20_173205.jpg
+ <<< Step 0
+Input: KeyEvent(state=f89b5946c714df5e666ea1a6c3edc9da, name=HOME)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11011481285095215
+ >>> Write screenshots to output/temp/screen_2022-02-20_173207.jpg
+ <<< Step 0
+Input: KeyEvent(state=f89b5946c714df5e666ea1a6c3edc9da, name=HOME)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.1113734245300293
+ >>> Write screenshots to output/temp/screen_2022-02-20_173208.jpg
+ <<< Step 0
+Input: KeyEvent(state=f89b5946c714df5e666ea1a6c3edc9da, name=HOME)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.11137676239013672
+ >>> Write screenshots to output/temp/screen_2022-02-20_173210.jpg
+ <<< Step 0
+Input: KeyEvent(state=f89b5946c714df5e666ea1a6c3edc9da, name=HOME)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.1082162857055664
+ >>> Write screenshots to output/temp/screen_2022-02-20_173211.jpg
+ <<< Step 0
+Input: KeyEvent(state=f89b5946c714df5e666ea1a6c3edc9da, name=HOME)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.1086888313293457
+ >>> Write screenshots to output/temp/screen_2022-02-20_173213.jpg
+ <<< Step 0
+Input: KeyEvent(state=f89b5946c714df5e666ea1a6c3edc9da, name=HOME)
+******************** sleep 1 ********************
+ >>> Time processing to take screenshots 0.10761451721191406
+ >>> Write screenshots to output/temp/screen_2022-02-20_173214.jpg
+ <<< Step 0
+Input: KeyEvent(state=f89b5946c714df5e666ea1a6c3edc9da, name=HOME)
+[CONNECTION] ADB is disconnected
+[CONNECTION] UserInputMonitor is disconnected
+[CONNECTION] Logcat is disconnected
+[CONNECTION] DroidBotIme is disconnected
+[CONNECTION] ProcessMonitor is disconnected
+Please wait while uninstalling the app...

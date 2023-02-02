@@ -1,0 +1,10 @@
+{
+  "tag": "2022-02-20_181131",
+  "event": {
+    "event_type": "intent",
+    "intent": "am start a2dp.Vol/a2dp.Vol.main"
+  },
+  "start_state": "f89b5946c714df5e666ea1a6c3edc9da",
+  "stop_state": "1b80891ad1d6ff3a4bba48ced9d49682",
+  "event_str": "IntentEvent(intent='am start a2dp.Vol/a2dp.Vol.main')"
+}

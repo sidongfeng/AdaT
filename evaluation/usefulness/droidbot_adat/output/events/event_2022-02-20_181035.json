@@ -1,0 +1,48 @@
+{
+  "tag": "2022-02-20_181035",
+  "event": {
+    "event_type": "touch",
+    "x": null,
+    "y": null,
+    "view": {
+      "checkable": true,
+      "selected": false,
+      "scrollable": false,
+      "long_clickable": false,
+      "resource_id": "a2dp.Vol:id/checkBoxLaunchCar",
+      "visible": false,
+      "enabled": true,
+      "clickable": true,
+      "checked": false,
+      "is_password": false,
+      "content_description": null,
+      "focused": false,
+      "class": "android.widget.CheckBox",
+      "children": [],
+      "child_count": 0,
+      "package": "a2dp.Vol",
+      "text": "Launch Car Mode",
+      "bounds": [
+        [
+          0,
+          2103
+        ],
+        [
+          1080,
+          1794
+        ]
+      ],
+      "editable": false,
+      "focusable": true,
+      "parent": 9,
+      "temp_id": 27,
+      "size": "1080*-309",
+      "signature": "[class]android.widget.CheckBox[resource_id]a2dp.Vol:id/checkBoxLaunchCar[text]Launch Car Mode[enabled,,]",
+      "view_str": "167925a9bf3929431787ec89f4ad30d3",
+      "content_free_signature": "[class]android.widget.CheckBox[resource_id]a2dp.Vol:id/checkBoxLaunchCar"
+    }
+  },
+  "start_state": "02c1348374388865644001a55cd48a49",
+  "stop_state": "8cb156f01832f8276d77ef9ada565a5a",
+  "event_str": "TouchEvent(state=02c1348374388865644001a55cd48a49, view=167925a9bf3929431787ec89f4ad30d3)"
+}

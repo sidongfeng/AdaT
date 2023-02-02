@@ -1,0 +1,80 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        74e7745 a2dp.Vol/.main
+      android.appwidget.action.APPWIDGET_CONFIGURE:
+        91dfe9a a2dp.Vol/.ConnectWidgetConfigureActivity
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.intent.action.BOOT_COMPLETED:
+        a7483cb a2dp.Vol/.Starter
+      android.appwidget.action.APPWIDGET_UPDATE:
+        16442c1 a2dp.Vol/.Widget
+        dc627a8 a2dp.Vol/.ConnectWidget
+      android.intent.action.MY_PACKAGE_REPLACED:
+        a7483cb a2dp.Vol/.Starter
+
+Service Resolver Table:
+  Non-Data Actions:
+      android.service.notification.NotificationListenerService:
+        64d6a66 a2dp.Vol/.NotificationCatcher
+
+Key Set Manager:
+  [a2dp.Vol]
+      Signing KeySets: 34
+
+Packages:
+  Package [a2dp.Vol] (64591a7):
+    userId=10088
+    pkg=Package{c2a1654 a2dp.Vol}
+    codePath=/data/app/a2dp.Vol-1
+    resourcePath=/data/app/a2dp.Vol-1
+    legacyNativeLibraryDir=/data/app/a2dp.Vol-1/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=169 targetSdk=28
+    versionName=2.13.0.4
+    splits=[base]
+    applicationInfo=ApplicationInfo{9b149fd a2dp.Vol}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    dataDir=/data/user/0/a2dp.Vol
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2022-02-20 18:09:13
+    firstInstallTime=2022-02-20 18:09:14
+    lastUpdateTime=2022-02-20 18:09:14
+    signatures=PackageSignatures{bb5c6f2 [2fa143]}
+    installPermissionsFixed=true installStatus=1
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.RECEIVE_BOOT_COMPLETED
+      android.permission.CHANGE_WIFI_STATE
+      android.permission.ACCESS_WIFI_STATE
+      android.permission.KILL_BACKGROUND_PROCESSES
+      android.permission.BLUETOOTH
+      android.permission.BLUETOOTH_ADMIN
+      com.android.launcher.permission.READ_SETTINGS
+      android.permission.MODIFY_AUDIO_SETTINGS
+      android.permission.ACCESS_COARSE_LOCATION
+      android.permission.ACCESS_FINE_LOCATION
+      android.permission.WRITE_EXTERNAL_STORAGE
+      android.permission.READ_PHONE_STATE
+      android.permission.BROADCAST_STICKY
+      android.permission.ACCESS_NOTIFICATION_POLICY
+      android.permission.READ_EXTERNAL_STORAGE
+      com.android.launcher.permission.INSTALL_SHORTCUT
+      android.permission.FOREGROUND_SERVICE
+    install permissions:
+      android.permission.MODIFY_AUDIO_SETTINGS: granted=true
+      android.permission.ACCESS_NOTIFICATION_POLICY: granted=true
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      android.permission.BLUETOOTH: granted=true
+      android.permission.BLUETOOTH_ADMIN: granted=true
+      android.permission.BROADCAST_STICKY: granted=true
+      android.permission.CHANGE_WIFI_STATE: granted=true
+      android.permission.KILL_BACKGROUND_PROCESSES: granted=true
+      android.permission.ACCESS_WIFI_STATE: granted=true
+      com.android.launcher.permission.INSTALL_SHORTCUT: granted=true
+    User 0:  installed=true hidden=false stopped=true notLaunched=true enabled=0
+      gids=[3002, 3001]
+      runtime permissions:

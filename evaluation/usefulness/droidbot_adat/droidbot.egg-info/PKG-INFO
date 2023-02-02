@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: droidbot
+Version: 1.0.2b4
+Summary: A lightweight UI-guided test input generator for Android.
+Home-page: https://github.com/honeynet/droidbot
+Author: Yuanchun Li
+Author-email: pkulyc@gmail.com
+License: MIT
+Download-URL: https://github.com/honeynet/droidbot/tarball/1.0.2b4
+Description: UNKNOWN
+Keywords: testing,monkey,exerciser
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Testing
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python

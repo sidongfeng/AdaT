@@ -1,0 +1,48 @@
+{
+  "tag": "2022-02-20_180922",
+  "event": {
+    "event_type": "touch",
+    "x": null,
+    "y": null,
+    "view": {
+      "checkable": false,
+      "selected": false,
+      "scrollable": false,
+      "long_clickable": false,
+      "resource_id": "com.android.packageinstaller:id/permission_deny_button",
+      "visible": true,
+      "enabled": true,
+      "clickable": true,
+      "checked": false,
+      "is_password": false,
+      "content_description": null,
+      "focused": false,
+      "class": "android.widget.Button",
+      "children": [],
+      "child_count": 0,
+      "package": "com.android.packageinstaller",
+      "text": "Deny",
+      "bounds": [
+        [
+          502,
+          995
+        ],
+        [
+          670,
+          1121
+        ]
+      ],
+      "editable": false,
+      "focusable": true,
+      "parent": 9,
+      "temp_id": 10,
+      "size": "168*126",
+      "signature": "[class]android.widget.Button[resource_id]com.android.packageinstaller:id/permission_deny_button[text]Deny[enabled,,]",
+      "view_str": "ff204cc157f992c624ed3996efb76d18",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.android.packageinstaller:id/permission_deny_button"
+    }
+  },
+  "start_state": "dbdbd53eb8e4c362a25d08841f6c8777",
+  "stop_state": "3291c8e7ab1a96765b94f36af0cee588",
+  "event_str": "TouchEvent(state=dbdbd53eb8e4c362a25d08841f6c8777, view=ff204cc157f992c624ed3996efb76d18)"
+}

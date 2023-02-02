@@ -1,0 +1,1 @@
+{"step": [{"action": "tap", "coordinate_1": [157.5, 1720.0], "coordinate_2": null, "duration": null, "commands": null, "text": null}, {"action": "swipe", "coordinate_1": [0, 960], "coordinate_2": [540, 960], "duration": 1500, "commands": null, "text": null}, {"action": "tap", "coordinate_1": [97.0, 1485.0], "coordinate_2": null, "duration": null, "commands": null, "text": null}]}

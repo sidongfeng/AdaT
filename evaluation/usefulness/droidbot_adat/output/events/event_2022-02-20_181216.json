@@ -1,0 +1,48 @@
+{
+  "tag": "2022-02-20_181216",
+  "event": {
+    "event_type": "touch",
+    "x": null,
+    "y": null,
+    "view": {
+      "checkable": true,
+      "selected": false,
+      "scrollable": false,
+      "long_clickable": false,
+      "resource_id": "a2dp.Vol:id/iconradio1",
+      "visible": false,
+      "enabled": true,
+      "clickable": true,
+      "checked": false,
+      "is_password": false,
+      "content_description": null,
+      "focused": false,
+      "class": "android.widget.RadioButton",
+      "children": [],
+      "child_count": 0,
+      "package": "a2dp.Vol",
+      "text": null,
+      "bounds": [
+        [
+          699,
+          2029
+        ],
+        [
+          975,
+          1794
+        ]
+      ],
+      "editable": false,
+      "focusable": true,
+      "parent": 23,
+      "temp_id": 25,
+      "size": "276*-235",
+      "signature": "[class]android.widget.RadioButton[resource_id]a2dp.Vol:id/iconradio1[text]None[enabled,,]",
+      "view_str": "bcda3baaae3539326e0fb16bdee69b67",
+      "content_free_signature": "[class]android.widget.RadioButton[resource_id]a2dp.Vol:id/iconradio1"
+    }
+  },
+  "start_state": "bb134bb9e5f0b923fe70d7a05821bda2",
+  "stop_state": "7b81d425d0eefba2fb290f4b245c2a08",
+  "event_str": "TouchEvent(state=bb134bb9e5f0b923fe70d7a05821bda2, view=bcda3baaae3539326e0fb16bdee69b67)"
+}

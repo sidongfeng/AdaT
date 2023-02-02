@@ -1,0 +1,48 @@
+{
+  "tag": "2022-02-20_181132",
+  "event": {
+    "event_type": "touch",
+    "x": null,
+    "y": null,
+    "view": {
+      "checkable": true,
+      "selected": false,
+      "scrollable": false,
+      "long_clickable": false,
+      "resource_id": "a2dp.Vol:id/checkSetpv",
+      "visible": false,
+      "enabled": true,
+      "clickable": true,
+      "checked": false,
+      "is_password": false,
+      "content_description": null,
+      "focused": false,
+      "class": "android.widget.CheckBox",
+      "children": [],
+      "child_count": 0,
+      "package": "a2dp.Vol",
+      "text": "Set in-call phone volume on connect?",
+      "bounds": [
+        [
+          0,
+          1804
+        ],
+        [
+          1080,
+          1794
+        ]
+      ],
+      "editable": false,
+      "focusable": true,
+      "parent": 9,
+      "temp_id": 25,
+      "size": "1080*-10",
+      "signature": "[class]android.widget.CheckBox[resource_id]a2dp.Vol:id/checkSetpv[text]Set in-call phone volume on connect?[enabled,,]",
+      "view_str": "270638ebf6fad1871c4c941e4d53c7cf",
+      "content_free_signature": "[class]android.widget.CheckBox[resource_id]a2dp.Vol:id/checkSetpv"
+    }
+  },
+  "start_state": "465eae56b39d52059987c6ceb7d3d1ab",
+  "stop_state": "1b80891ad1d6ff3a4bba48ced9d49682",
+  "event_str": "TouchEvent(state=465eae56b39d52059987c6ceb7d3d1ab, view=270638ebf6fad1871c4c941e4d53c7cf)"
+}

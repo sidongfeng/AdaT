@@ -1,0 +1,10 @@
+{
+  "tag": "2022-02-20_180916",
+  "event": {
+    "event_type": "key",
+    "name": "HOME"
+  },
+  "start_state": "f89b5946c714df5e666ea1a6c3edc9da",
+  "stop_state": "077f848c5041a944f8623f9108d6f469",
+  "event_str": "KeyEvent(state=f89b5946c714df5e666ea1a6c3edc9da, name=HOME)"
+}

@@ -1,0 +1,48 @@
+{
+  "tag": "2022-02-20_181258",
+  "event": {
+    "event_type": "touch",
+    "x": null,
+    "y": null,
+    "view": {
+      "checkable": false,
+      "selected": false,
+      "scrollable": false,
+      "long_clickable": false,
+      "resource_id": "a2dp.Vol:id/EditDevSavebutton",
+      "visible": false,
+      "enabled": true,
+      "clickable": true,
+      "checked": false,
+      "is_password": false,
+      "content_description": null,
+      "focused": false,
+      "class": "android.widget.Button",
+      "children": [],
+      "child_count": 0,
+      "package": "a2dp.Vol",
+      "text": "Save",
+      "bounds": [
+        [
+          540,
+          2991
+        ],
+        [
+          1080,
+          1794
+        ]
+      ],
+      "editable": false,
+      "focusable": true,
+      "parent": 31,
+      "temp_id": 33,
+      "size": "540*-1197",
+      "signature": "[class]android.widget.Button[resource_id]a2dp.Vol:id/EditDevSavebutton[text]Save[enabled,,]",
+      "view_str": "123abd840ec2f948b14659141950810b",
+      "content_free_signature": "[class]android.widget.Button[resource_id]a2dp.Vol:id/EditDevSavebutton"
+    }
+  },
+  "start_state": "6fc3e95fdde849c3fdd16c59a394a9e4",
+  "stop_state": "ac51feef6d25777875e56170b58169b4",
+  "event_str": "TouchEvent(state=6fc3e95fdde849c3fdd16c59a394a9e4, view=123abd840ec2f948b14659141950810b)"
+}

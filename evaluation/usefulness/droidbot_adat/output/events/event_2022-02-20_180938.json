@@ -1,0 +1,48 @@
+{
+  "tag": "2022-02-20_180938",
+  "event": {
+    "event_type": "touch",
+    "x": null,
+    "y": null,
+    "view": {
+      "checkable": false,
+      "selected": false,
+      "scrollable": false,
+      "long_clickable": true,
+      "resource_id": "android:id/text1",
+      "visible": true,
+      "enabled": true,
+      "clickable": true,
+      "checked": false,
+      "is_password": false,
+      "content_description": null,
+      "focused": false,
+      "class": "android.widget.TextView",
+      "children": [],
+      "child_count": 0,
+      "package": "a2dp.Vol",
+      "text": "no data",
+      "bounds": [
+        [
+          0,
+          388
+        ],
+        [
+          1080,
+          514
+        ]
+      ],
+      "editable": false,
+      "focusable": false,
+      "parent": 14,
+      "temp_id": 15,
+      "size": "1080*126",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/text1[text]no data[enabled,,]",
+      "view_str": "92b2d42c7967bf4fa3cd8047187731c5",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/text1"
+    }
+  },
+  "start_state": "a04b4cc4a3c3facdcd83810b6f34b64e",
+  "stop_state": "bbdd751b0851d0423e753d16fe2cb7dc",
+  "event_str": "TouchEvent(state=a04b4cc4a3c3facdcd83810b6f34b64e, view=92b2d42c7967bf4fa3cd8047187731c5)"
+}

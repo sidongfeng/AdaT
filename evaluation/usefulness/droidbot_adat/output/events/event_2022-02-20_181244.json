@@ -1,0 +1,48 @@
+{
+  "tag": "2022-02-20_181244",
+  "event": {
+    "event_type": "touch",
+    "x": null,
+    "y": null,
+    "view": {
+      "checkable": false,
+      "selected": false,
+      "scrollable": false,
+      "long_clickable": true,
+      "resource_id": "a2dp.Vol:id/editBtConnect",
+      "visible": true,
+      "enabled": true,
+      "clickable": true,
+      "checked": false,
+      "is_password": false,
+      "content_description": null,
+      "focused": true,
+      "class": "android.widget.EditText",
+      "children": [],
+      "child_count": 0,
+      "package": "a2dp.Vol",
+      "text": null,
+      "bounds": [
+        [
+          0,
+          1589
+        ],
+        [
+          1080,
+          1707
+        ]
+      ],
+      "editable": true,
+      "focusable": true,
+      "parent": 9,
+      "temp_id": 21,
+      "size": "1080*118",
+      "signature": "[class]android.widget.EditText[resource_id]a2dp.Vol:id/editBtConnect[text]None[enabled,,]",
+      "view_str": "f86fae7d991b243580c615cac5c0086b",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]a2dp.Vol:id/editBtConnect"
+    }
+  },
+  "start_state": "b21a70807d57d44ebebe2e406899a1c5",
+  "stop_state": "d3afd41f8111ddb87c422a84b6bbe9b3",
+  "event_str": "TouchEvent(state=b21a70807d57d44ebebe2e406899a1c5, view=f86fae7d991b243580c615cac5c0086b)"
+}

@@ -1,0 +1,48 @@
+{
+  "tag": "2022-02-20_180930",
+  "event": {
+    "event_type": "touch",
+    "x": null,
+    "y": null,
+    "view": {
+      "checkable": false,
+      "selected": false,
+      "scrollable": false,
+      "long_clickable": false,
+      "resource_id": "android:id/button2",
+      "visible": true,
+      "enabled": true,
+      "clickable": true,
+      "checked": false,
+      "is_password": false,
+      "content_description": null,
+      "focused": false,
+      "class": "android.widget.Button",
+      "children": [],
+      "child_count": 0,
+      "package": "a2dp.Vol",
+      "text": "Delete",
+      "bounds": [
+        [
+          620,
+          1025
+        ],
+        [
+          811,
+          1151
+        ]
+      ],
+      "editable": false,
+      "focusable": true,
+      "parent": 11,
+      "temp_id": 13,
+      "size": "191*126",
+      "signature": "[class]android.widget.Button[resource_id]android:id/button2[text]Delete[enabled,,]",
+      "view_str": "9aa2152b953419196758429c58601495",
+      "content_free_signature": "[class]android.widget.Button[resource_id]android:id/button2"
+    }
+  },
+  "start_state": "4549a3c33ef06252fc395198f0cae800",
+  "stop_state": "1f8d19e3d09f99c74f87f029b5db648e",
+  "event_str": "TouchEvent(state=4549a3c33ef06252fc395198f0cae800, view=9aa2152b953419196758429c58601495)"
+}

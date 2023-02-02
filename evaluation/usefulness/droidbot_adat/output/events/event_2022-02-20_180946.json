@@ -1,0 +1,48 @@
+{
+  "tag": "2022-02-20_180946",
+  "event": {
+    "event_type": "touch",
+    "x": null,
+    "y": null,
+    "view": {
+      "checkable": false,
+      "selected": false,
+      "scrollable": false,
+      "long_clickable": false,
+      "resource_id": "a2dp.Vol:id/ServButton",
+      "visible": true,
+      "enabled": true,
+      "clickable": true,
+      "checked": false,
+      "is_password": false,
+      "content_description": null,
+      "focused": false,
+      "class": "android.widget.Button",
+      "children": [],
+      "child_count": 0,
+      "package": "a2dp.Vol",
+      "text": "Stop Service",
+      "bounds": [
+        [
+          737,
+          236
+        ],
+        [
+          1054,
+          362
+        ]
+      ],
+      "editable": false,
+      "focusable": true,
+      "parent": 10,
+      "temp_id": 13,
+      "size": "317*126",
+      "signature": "[class]android.widget.Button[resource_id]a2dp.Vol:id/ServButton[text]Stop Service[enabled,,]",
+      "view_str": "a84075a0f67761a398278e2b5b119959",
+      "content_free_signature": "[class]android.widget.Button[resource_id]a2dp.Vol:id/ServButton"
+    }
+  },
+  "start_state": "7d60fc8797c4d4f0dff95924df715a86",
+  "stop_state": "40a4ef6b331f8578c9bcd1acc090fc66",
+  "event_str": "TouchEvent(state=7d60fc8797c4d4f0dff95924df715a86, view=a84075a0f67761a398278e2b5b119959)"
+}

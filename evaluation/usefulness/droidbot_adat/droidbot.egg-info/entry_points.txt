@@ -1,0 +1,3 @@
+[console_scripts]
+droidbot-test = droidbot.start:main
+
