@@ -1,3 +1,0 @@
-androguard
-networkx
-Pillow

@@ -126,8 +126,6 @@ For RQ1, we first present some general performance of our model for GUI renderin
 For RQ2, we carry out experiments to check if our tool can speed up the automated GUI testing, without sacrificing the effectiveness of bug triggering.
 For RQ3, we integrate AdaT with DroidBot as an enhanced automated testing tool to measure the ability of our approach in real-world testing environments.
 
-> For more details and experimental setup, please check the instructions in [README.md](./evaluation)
-
 ### RQ1: Performance of Model
 <p align="center">
 <img src="figures/rq1.png" width="40%"/> 
